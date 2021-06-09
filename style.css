@@ -1,0 +1,66 @@
+h1 {color: white; }
+h2 {color: white;}
+h3 {color: white;}
+
+
+.navbar {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	background: black;
+
+
+}
+
+.item {
+	display: flex;
+	justify-content: flex-end;
+}
+
+.item {
+	margin: 10px 30px;
+	color: white;
+	font-family: optima;
+}
+
+.item{
+	color: white;
+	font-family: optima;
+
+}
+	
+
+	body{ background: pink;
+text-align: center;
+}
+.span-pink {color: pink;}
+
+.frame {
+	border: 10px solid black;
+	margin: 100px;
+	padding: 30px;
+}
+
+.framepink {
+	border: 5px solid pink;
+	margin: 30px 10px;
+	padding: 10px;
+}
+
+.frametwo {
+	border: 10px solid black;
+	margin: 100px;
+	padding: 30px;
+}
+
+h5 {
+	font-family: optima;
+	color: white;
+
+}
+
+
+ a, a:hover{
+ 	color:white;
+ }
+
