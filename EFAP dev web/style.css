@@ -1,0 +1,117 @@
+h1 {color: white;
+font-family: 'Indie Flower', cursive; }
+h2 {color: white;}
+h3 {color: white;}
+
+
+.my-navbar {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	background: black;
+
+
+}
+
+.item {
+	display: flex;
+	justify-content: flex-end;
+}
+
+.item {
+	margin: 10px 30px;
+	color: white;
+	font-family: optima;
+}
+
+.item{
+	color: white;
+	font-family: optima;
+
+}
+	
+
+	body{ background: pink;
+text-align: center;
+}
+.span-pink {color: pink;}
+
+.frame {
+	border: 10px solid black;
+	margin: 100px;
+	padding: 30px;
+	border-radius: 5px;
+	box-shadow: 10px 10px 10px grey;
+}
+
+.framepink {
+	border: 5px solid pink;
+	margin: 30px 10px;
+	padding: 10px;
+}
+
+.frametwo {
+	border: 10px solid black;
+	margin: 100px;
+	padding: 30px;
+	border-radius: 10px;
+}
+
+h5 {
+	font-family: optima;
+	color: white;
+
+}
+
+h6 {font-family: optima;
+	color: black;
+}
+
+ul {text-align: left;
+	color: white;
+
+}
+
+.line-transparent {
+  background: white;
+  width: 100%;
+  color : black ;
+  font-family: 'Indie Flower', cursive;
+  font-size : 30px;
+  text-align : center ;
+  margin : 10px 0px 10px 0px;
+  align-items: center;
+}
+
+ 
+
+.line-light {
+  height: 30px;
+  width: 100%;
+  background: #f196b3;
+}
+
+ 
+
+.line-medium {
+  height: 30px;
+  width: 100%;
+  background: #f18ea5;
+}
+
+ 
+
+.line-hard {
+  height: 30px;
+  width: 100%;
+  background: #f08798;
+
+a:hover{
+color:white;   
+}
+a, a: hover{
+	color:white;
+}
+
+
+
