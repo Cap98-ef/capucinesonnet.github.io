@@ -1,9 +1,10 @@
-h1 {color: white; }
+h1 {color: white;
+font-family: 'Indie Flower', cursive; }
 h2 {color: white;}
 h3 {color: white;}
 
 
-.navbar {
+.my-navbar {
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
@@ -39,6 +40,8 @@ text-align: center;
 	border: 10px solid black;
 	margin: 100px;
 	padding: 30px;
+	border-radius: 5px;
+	box-shadow: 10px 10px 10px grey;
 }
 
 .framepink {
@@ -51,6 +54,7 @@ text-align: center;
 	border: 10px solid black;
 	margin: 100px;
 	padding: 30px;
+	border-radius: 10px;
 }
 
 h5 {
@@ -59,8 +63,55 @@ h5 {
 
 }
 
+h6 {font-family: optima;
+	color: black;
+}
 
- a, a:hover{
- 	color:white;
- }
+ul {text-align: left;
+	color: white;
+
+}
+
+.line-transparent {
+  background: white;
+  width: 100%;
+  color : black ;
+  font-family: 'Indie Flower', cursive;
+  font-size : 30px;
+  text-align : center ;
+  margin : 10px 0px 10px 0px;
+  align-items: center;
+}
+
+ 
+
+.line-light {
+  height: 30px;
+  width: 100%;
+  background: #f196b3;
+}
+
+ 
+
+.line-medium {
+  height: 30px;
+  width: 100%;
+  background: #f18ea5;
+}
+
+ 
+
+.line-hard {
+  height: 30px;
+  width: 100%;
+  background: #f08798;
+
+a:hover{
+color:white;   
+}
+a, a: hover{
+	color:white;
+}
+
+
 
